@@ -1,1 +1,2 @@
 Hello this is lab 6.
+This is second change we will be making to the repository
